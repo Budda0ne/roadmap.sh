@@ -1,39 +1,12 @@
-<p align="center">
-  <img src="public/brand.png" height="128">
-  <h2 align="center">roadmap.sh</h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
-  <p align="center">
-    <a href="https://roadmap.sh/guides">
-    	<img src="https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-    <a href="https://roadmap.sh/roadmaps">
-    	<img src="https://img.shields.io/badge/-Roadmaps-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-    <a href="./contributing/guide.md">
-    	<img src="https://img.shields.io/badge/%E2%9D%A4-Contribute-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-  </p>
-</p>
+![image](https://user-images.githubusercontent.com/4921183/144568473-0b8a0c86-1fe8-489a-b4ba-2ae57a21ded8.png)
 
-[roadmap.sh](https://roadmap.sh) is the community effort to create knowledge that is approachable for the developers. 
 
-The website is built with Next.js, contains roadmaps which are the step by step guides for developers, guides which are the easier to understand explanations on the complex topics. Anyone can contribute to the website by suggesting changes to existing paths, adding learning resources, becoming an author by adding new guides, updating the existing guides.
+![](https://i.imgur.com/waxVImv.png)
 
-## Development
+### Moved to [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+The repository has been merged into [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-Clone the repository, install the dependencies and start the application
+* [Visit Website](https://roadmap.sh)
+* [Watch Videos](https://youtube.com/theroadmap?sub_confirmation=1)
 
-```bash
-git clone https://github.com/kamranahmedse/roadmap.sh
-yarn install
-yarn dev
-```
-
-## Contributions
-
-* Add new Roadmap
-* Suggest changes to existing roadmap
-* Write an article
-* Improve the site's codebase
-* Write tests
-
+![](https://i.imgur.com/waxVImv.png)
